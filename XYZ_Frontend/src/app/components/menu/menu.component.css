@@ -1,0 +1,13 @@
+.menu-container {
+  max-width: 300px;
+  margin: 20px auto;
+}
+
+h2 {
+  margin-bottom: 10px;
+}
+
+button {
+  text-transform: uppercase;
+  font-weight: bold;
+}

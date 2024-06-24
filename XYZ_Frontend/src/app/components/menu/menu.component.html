@@ -1,0 +1,12 @@
+<div class="menu-container">
+  <h2>Menú</h2>
+  <button mat-button [matMenuTriggerFor]="menu">Opciones</button>
+  <mat-menu #menu="matMenu">
+    <button mat-menu-item routerLink="usuario">Usuarios</button>
+    <button mat-menu-item routerLink="producto">Productos</button>
+    <!-- Otros elementos de menú si los necesitas -->
+  </mat-menu>
+</div>
+
+
+<router-outlet />
