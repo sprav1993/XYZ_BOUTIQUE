@@ -1,0 +1,116 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "XYZ.BOUTIQUE.Application.Dto/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/XYZ.BOUTIQUE.Application.Dto.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/XYZ.BOUTIQUE.Application.Dto.dll": {}
+        }
+      },
+      "XYZ.BOUTIQUE.Transversal.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/XYZ.BOUTIQUE.Transversal.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/XYZ.BOUTIQUE.Transversal.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "XYZ.BOUTIQUE.Application.Dto/1.0.0": {
+      "type": "project",
+      "path": "../Pacagroup.Ecommerce.Application.Dto/XYZ.BOUTIQUE.Application.Dto.csproj",
+      "msbuildProject": "../Pacagroup.Ecommerce.Application.Dto/XYZ.BOUTIQUE.Application.Dto.csproj"
+    },
+    "XYZ.BOUTIQUE.Transversal.Common/1.0.0": {
+      "type": "project",
+      "path": "../Pacagroup.Ecommerce.Transversal.Common/XYZ.BOUTIQUE.Transversal.Common.csproj",
+      "msbuildProject": "../Pacagroup.Ecommerce.Transversal.Common/XYZ.BOUTIQUE.Transversal.Common.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "XYZ.BOUTIQUE.Application.Dto >= 1.0.0",
+      "XYZ.BOUTIQUE.Transversal.Common >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\pedro\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Proyectos Empresas\\Delfosti\\XYZ.BOUTIQUE\\Pacagroup.Ecommerce.Application.Interface\\XYZ.BOUTIQUE.Application.Interface.csproj",
+      "projectName": "XYZ.BOUTIQUE.Application.Interface",
+      "projectPath": "D:\\Proyectos Empresas\\Delfosti\\XYZ.BOUTIQUE\\Pacagroup.Ecommerce.Application.Interface\\XYZ.BOUTIQUE.Application.Interface.csproj",
+      "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
+      "outputPath": "D:\\Proyectos Empresas\\Delfosti\\XYZ.BOUTIQUE\\Pacagroup.Ecommerce.Application.Interface\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\Proyectos Empresas\\Delfosti\\XYZ.BOUTIQUE\\Pacagroup.Ecommerce.Application.Dto\\XYZ.BOUTIQUE.Application.Dto.csproj": {
+              "projectPath": "D:\\Proyectos Empresas\\Delfosti\\XYZ.BOUTIQUE\\Pacagroup.Ecommerce.Application.Dto\\XYZ.BOUTIQUE.Application.Dto.csproj"
+            },
+            "D:\\Proyectos Empresas\\Delfosti\\XYZ.BOUTIQUE\\Pacagroup.Ecommerce.Transversal.Common\\XYZ.BOUTIQUE.Transversal.Common.csproj": {
+              "projectPath": "D:\\Proyectos Empresas\\Delfosti\\XYZ.BOUTIQUE\\Pacagroup.Ecommerce.Transversal.Common\\XYZ.BOUTIQUE.Transversal.Common.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

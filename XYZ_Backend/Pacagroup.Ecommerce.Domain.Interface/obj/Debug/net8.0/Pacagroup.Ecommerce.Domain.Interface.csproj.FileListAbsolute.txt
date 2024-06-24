@@ -1,0 +1,15 @@
+D:\Cursos\Curso_ArquitecturtaNet7\PACAGROUP_ECOMMERCE\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Interface\bin\Debug\net8.0\Pacagroup.Ecommerce.Domain.Interface.deps.json
+D:\Cursos\Curso_ArquitecturtaNet7\PACAGROUP_ECOMMERCE\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Interface\bin\Debug\net8.0\Pacagroup.Ecommerce.Domain.Interface.dll
+D:\Cursos\Curso_ArquitecturtaNet7\PACAGROUP_ECOMMERCE\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Interface\bin\Debug\net8.0\Pacagroup.Ecommerce.Domain.Interface.pdb
+D:\Cursos\Curso_ArquitecturtaNet7\PACAGROUP_ECOMMERCE\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Interface\bin\Debug\net8.0\Pacagroup.Ecommerce.Domain.Entity.dll
+D:\Cursos\Curso_ArquitecturtaNet7\PACAGROUP_ECOMMERCE\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Interface\bin\Debug\net8.0\Pacagroup.Ecommerce.Domain.Entity.pdb
+D:\Cursos\Curso_ArquitecturtaNet7\PACAGROUP_ECOMMERCE\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Interface\obj\Debug\net8.0\Pacagroup.Ecommerce.Domain.Interface.csproj.AssemblyReference.cache
+D:\Cursos\Curso_ArquitecturtaNet7\PACAGROUP_ECOMMERCE\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Interface\obj\Debug\net8.0\Pacagroup.Ecommerce.Domain.Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Curso_ArquitecturtaNet7\PACAGROUP_ECOMMERCE\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Interface\obj\Debug\net8.0\Pacagroup.Ecommerce.Domain.Interface.AssemblyInfoInputs.cache
+D:\Cursos\Curso_ArquitecturtaNet7\PACAGROUP_ECOMMERCE\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Interface\obj\Debug\net8.0\Pacagroup.Ecommerce.Domain.Interface.AssemblyInfo.cs
+D:\Cursos\Curso_ArquitecturtaNet7\PACAGROUP_ECOMMERCE\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Interface\obj\Debug\net8.0\Pacagroup.Ecommerce.Domain.Interface.csproj.CoreCompileInputs.cache
+D:\Cursos\Curso_ArquitecturtaNet7\PACAGROUP_ECOMMERCE\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Interface\obj\Debug\net8.0\Pacagroup.Ecommerce.Domain.Interface.csproj.CopyComplete
+D:\Cursos\Curso_ArquitecturtaNet7\PACAGROUP_ECOMMERCE\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Interface\obj\Debug\net8.0\Pacagroup.Ecommerce.Domain.Interface.dll
+D:\Cursos\Curso_ArquitecturtaNet7\PACAGROUP_ECOMMERCE\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Interface\obj\Debug\net8.0\refint\Pacagroup.Ecommerce.Domain.Interface.dll
+D:\Cursos\Curso_ArquitecturtaNet7\PACAGROUP_ECOMMERCE\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Interface\obj\Debug\net8.0\Pacagroup.Ecommerce.Domain.Interface.pdb
+D:\Cursos\Curso_ArquitecturtaNet7\PACAGROUP_ECOMMERCE\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Interface\obj\Debug\net8.0\ref\Pacagroup.Ecommerce.Domain.Interface.dll

@@ -1,0 +1,15 @@
+D:\Cursos\Curso_ArquitecturtaNet7\PACAGROUP_ECOMMERCE\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Data\bin\Debug\net8.0\Pacagroup.Ecommerce.Infrastructure.Data.deps.json
+D:\Cursos\Curso_ArquitecturtaNet7\PACAGROUP_ECOMMERCE\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Data\bin\Debug\net8.0\Pacagroup.Ecommerce.Infrastructure.Data.dll
+D:\Cursos\Curso_ArquitecturtaNet7\PACAGROUP_ECOMMERCE\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Data\bin\Debug\net8.0\Pacagroup.Ecommerce.Infrastructure.Data.pdb
+D:\Cursos\Curso_ArquitecturtaNet7\PACAGROUP_ECOMMERCE\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Data\bin\Debug\net8.0\Pacagroup.Ecommerce.Transversal.Common.dll
+D:\Cursos\Curso_ArquitecturtaNet7\PACAGROUP_ECOMMERCE\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Data\bin\Debug\net8.0\Pacagroup.Ecommerce.Transversal.Common.pdb
+D:\Cursos\Curso_ArquitecturtaNet7\PACAGROUP_ECOMMERCE\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Data\obj\Debug\net8.0\Pacagroup.Ecommerce.Infrastructure.Data.csproj.AssemblyReference.cache
+D:\Cursos\Curso_ArquitecturtaNet7\PACAGROUP_ECOMMERCE\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Data\obj\Debug\net8.0\Pacagroup.Ecommerce.Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Curso_ArquitecturtaNet7\PACAGROUP_ECOMMERCE\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Data\obj\Debug\net8.0\Pacagroup.Ecommerce.Infrastructure.Data.AssemblyInfoInputs.cache
+D:\Cursos\Curso_ArquitecturtaNet7\PACAGROUP_ECOMMERCE\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Data\obj\Debug\net8.0\Pacagroup.Ecommerce.Infrastructure.Data.AssemblyInfo.cs
+D:\Cursos\Curso_ArquitecturtaNet7\PACAGROUP_ECOMMERCE\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Data\obj\Debug\net8.0\Pacagroup.Ecommerce.Infrastructure.Data.csproj.CoreCompileInputs.cache
+D:\Cursos\Curso_ArquitecturtaNet7\PACAGROUP_ECOMMERCE\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Data\obj\Debug\net8.0\Pacagroup.Ecommerce.Infrastructure.Data.csproj.CopyComplete
+D:\Cursos\Curso_ArquitecturtaNet7\PACAGROUP_ECOMMERCE\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Data\obj\Debug\net8.0\Pacagroup.Ecommerce.Infrastructure.Data.dll
+D:\Cursos\Curso_ArquitecturtaNet7\PACAGROUP_ECOMMERCE\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Data\obj\Debug\net8.0\refint\Pacagroup.Ecommerce.Infrastructure.Data.dll
+D:\Cursos\Curso_ArquitecturtaNet7\PACAGROUP_ECOMMERCE\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Data\obj\Debug\net8.0\Pacagroup.Ecommerce.Infrastructure.Data.pdb
+D:\Cursos\Curso_ArquitecturtaNet7\PACAGROUP_ECOMMERCE\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Data\obj\Debug\net8.0\ref\Pacagroup.Ecommerce.Infrastructure.Data.dll

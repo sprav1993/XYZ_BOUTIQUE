@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <InvariantGlobalization>true</InvariantGlobalization>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.6" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="7.6.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Pacagroup.Ecommerce.Application.Dto\XYZ.BOUTIQUE.Application.Dto.csproj" />
+    <ProjectReference Include="..\Pacagroup.Ecommerce.Application.Interface\XYZ.BOUTIQUE.Application.Interface.csproj" />
+    <ProjectReference Include="..\Pacagroup.Ecommerce.Application.Main\XYZ.BOUTIQUE.Application.Main.csproj" />
+    <ProjectReference Include="..\Pacagroup.Ecommerce.Domain.Core\XYZ.BOUTIQUE.Domain.Core.csproj" />
+    <ProjectReference Include="..\Pacagroup.Ecommerce.Domain.Entity\XYZ.BOUTIQUE.Domain.Entity.csproj" />
+    <ProjectReference Include="..\Pacagroup.Ecommerce.Domain.Interface\XYZ.BOUTIQUE.Domain.Interface.csproj" />
+    <ProjectReference Include="..\Pacagroup.Ecommerce.Infrastructure.Data\XYZ.BOUTIQUE.Infrastructure.Data.csproj" />
+    <ProjectReference Include="..\Pacagroup.Ecommerce.Infrastructure.Interface\XYZ.BOUTIQUE.Infrastructure.Interface.csproj" />
+    <ProjectReference Include="..\Pacagroup.Ecommerce.Infrastructure.Repository\XYZ.BOUTIQUE.Infrastructure.Repository.csproj" />
+    <ProjectReference Include="..\Pacagroup.Ecommerce.Transversal.Common\XYZ.BOUTIQUE.Transversal.Common.csproj" />
+    <ProjectReference Include="..\Pacagroup.Ecommerce.Transversal.Mapper\XYZ.BOUTIQUE.Transversal.Mapper.csproj" />
+  </ItemGroup>
+
+</Project>

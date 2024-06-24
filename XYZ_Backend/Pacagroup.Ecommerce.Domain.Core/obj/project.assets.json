@@ -1,0 +1,141 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "XYZ.BOUTIQUE.Domain.Entity/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/XYZ.BOUTIQUE.Domain.Entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/XYZ.BOUTIQUE.Domain.Entity.dll": {}
+        }
+      },
+      "XYZ.BOUTIQUE.Domain.Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "XYZ.BOUTIQUE.Domain.Entity": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/XYZ.BOUTIQUE.Domain.Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/XYZ.BOUTIQUE.Domain.Interface.dll": {}
+        }
+      },
+      "XYZ.BOUTIQUE.Infrastructure.Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "XYZ.BOUTIQUE.Domain.Entity": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/XYZ.BOUTIQUE.Infrastructure.Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/XYZ.BOUTIQUE.Infrastructure.Interface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "XYZ.BOUTIQUE.Domain.Entity/1.0.0": {
+      "type": "project",
+      "path": "../Pacagroup.Ecommerce.Domain.Entity/XYZ.BOUTIQUE.Domain.Entity.csproj",
+      "msbuildProject": "../Pacagroup.Ecommerce.Domain.Entity/XYZ.BOUTIQUE.Domain.Entity.csproj"
+    },
+    "XYZ.BOUTIQUE.Domain.Interface/1.0.0": {
+      "type": "project",
+      "path": "../Pacagroup.Ecommerce.Domain.Interface/XYZ.BOUTIQUE.Domain.Interface.csproj",
+      "msbuildProject": "../Pacagroup.Ecommerce.Domain.Interface/XYZ.BOUTIQUE.Domain.Interface.csproj"
+    },
+    "XYZ.BOUTIQUE.Infrastructure.Interface/1.0.0": {
+      "type": "project",
+      "path": "../Pacagroup.Ecommerce.Infrastructure.Interface/XYZ.BOUTIQUE.Infrastructure.Interface.csproj",
+      "msbuildProject": "../Pacagroup.Ecommerce.Infrastructure.Interface/XYZ.BOUTIQUE.Infrastructure.Interface.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "XYZ.BOUTIQUE.Domain.Entity >= 1.0.0",
+      "XYZ.BOUTIQUE.Domain.Interface >= 1.0.0",
+      "XYZ.BOUTIQUE.Infrastructure.Interface >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\pedro\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Proyectos Empresas\\Delfosti\\XYZ.BOUTIQUE\\Pacagroup.Ecommerce.Domain.Core\\XYZ.BOUTIQUE.Domain.Core.csproj",
+      "projectName": "XYZ.BOUTIQUE.Domain.Core",
+      "projectPath": "D:\\Proyectos Empresas\\Delfosti\\XYZ.BOUTIQUE\\Pacagroup.Ecommerce.Domain.Core\\XYZ.BOUTIQUE.Domain.Core.csproj",
+      "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
+      "outputPath": "D:\\Proyectos Empresas\\Delfosti\\XYZ.BOUTIQUE\\Pacagroup.Ecommerce.Domain.Core\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\Proyectos Empresas\\Delfosti\\XYZ.BOUTIQUE\\Pacagroup.Ecommerce.Domain.Entity\\XYZ.BOUTIQUE.Domain.Entity.csproj": {
+              "projectPath": "D:\\Proyectos Empresas\\Delfosti\\XYZ.BOUTIQUE\\Pacagroup.Ecommerce.Domain.Entity\\XYZ.BOUTIQUE.Domain.Entity.csproj"
+            },
+            "D:\\Proyectos Empresas\\Delfosti\\XYZ.BOUTIQUE\\Pacagroup.Ecommerce.Domain.Interface\\XYZ.BOUTIQUE.Domain.Interface.csproj": {
+              "projectPath": "D:\\Proyectos Empresas\\Delfosti\\XYZ.BOUTIQUE\\Pacagroup.Ecommerce.Domain.Interface\\XYZ.BOUTIQUE.Domain.Interface.csproj"
+            },
+            "D:\\Proyectos Empresas\\Delfosti\\XYZ.BOUTIQUE\\Pacagroup.Ecommerce.Infrastructure.Interface\\XYZ.BOUTIQUE.Infrastructure.Interface.csproj": {
+              "projectPath": "D:\\Proyectos Empresas\\Delfosti\\XYZ.BOUTIQUE\\Pacagroup.Ecommerce.Infrastructure.Interface\\XYZ.BOUTIQUE.Infrastructure.Interface.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

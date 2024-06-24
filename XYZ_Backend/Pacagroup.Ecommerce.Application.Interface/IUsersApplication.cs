@@ -1,0 +1,16 @@
+﻿using XYZ.BOUTIQUE.Application.Dto;
+using XYZ.BOUTIQUE.Transversal.Common;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace XYZ.BOUTIQUE.Application.Interface
+{
+    public interface IUsersApplication
+    {
+        Response<UsersDto> Authenticate(string username, string password);
+
+    }
+}

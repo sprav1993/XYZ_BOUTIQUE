@@ -1,0 +1,11 @@
+D:\Cursos\Curso_ArquitecturtaNet7\PACAGROUP_ECOMMERCE\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\bin\Debug\net8.0\Pacagroup.Ecommerce.Transversal.Common.deps.json
+D:\Cursos\Curso_ArquitecturtaNet7\PACAGROUP_ECOMMERCE\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\bin\Debug\net8.0\Pacagroup.Ecommerce.Transversal.Common.dll
+D:\Cursos\Curso_ArquitecturtaNet7\PACAGROUP_ECOMMERCE\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\bin\Debug\net8.0\Pacagroup.Ecommerce.Transversal.Common.pdb
+D:\Cursos\Curso_ArquitecturtaNet7\PACAGROUP_ECOMMERCE\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\net8.0\Pacagroup.Ecommerce.Transversal.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Curso_ArquitecturtaNet7\PACAGROUP_ECOMMERCE\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\net8.0\Pacagroup.Ecommerce.Transversal.Common.AssemblyInfoInputs.cache
+D:\Cursos\Curso_ArquitecturtaNet7\PACAGROUP_ECOMMERCE\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\net8.0\Pacagroup.Ecommerce.Transversal.Common.AssemblyInfo.cs
+D:\Cursos\Curso_ArquitecturtaNet7\PACAGROUP_ECOMMERCE\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\net8.0\Pacagroup.Ecommerce.Transversal.Common.csproj.CoreCompileInputs.cache
+D:\Cursos\Curso_ArquitecturtaNet7\PACAGROUP_ECOMMERCE\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\net8.0\Pacagroup.Ecommerce.Transversal.Common.dll
+D:\Cursos\Curso_ArquitecturtaNet7\PACAGROUP_ECOMMERCE\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\net8.0\refint\Pacagroup.Ecommerce.Transversal.Common.dll
+D:\Cursos\Curso_ArquitecturtaNet7\PACAGROUP_ECOMMERCE\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\net8.0\Pacagroup.Ecommerce.Transversal.Common.pdb
+D:\Cursos\Curso_ArquitecturtaNet7\PACAGROUP_ECOMMERCE\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\net8.0\ref\Pacagroup.Ecommerce.Transversal.Common.dll
